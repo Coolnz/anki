@@ -1,0 +1,53 @@
+name: Generate
+on:
+  workflow_call:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 1 * *'
+permissions: write-all
+
+#   -a, --author string        custom feed author (default "nobody")
+#  -d, --description string   custom feed description (default "feedgen is a cli tool that help you quickly build RSS feed")
+#  -f, --filename string      HTML file ready to display
+#  -l, --link string          custom feed link (default "https://github.com/dashboard")
+#  -m, --mail string          custom author's mail (default "nobody@gmail.com")
+#  -n, --title string         custom feed title (default "interview-questions")
+env:
+  NUM: 30
+  RSS_TITLE: "interview-questions"
+  RSS_DESCRIPTION: "feedgen is a cli tool that help you quickly build RSS feed"
+  RSS_AUTHOR: "nobody"
+  RSS_MAIL: "nobody@gmail.com"
+  RSS_LINK: "https://github.com/dashboard"
+
+jobs:
+  issue-weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-go@v3
+        with:
+          go-version: '1.20'
+      - uses: actions/checkout@v3
+      - id: generate
+        run: |
+          go install github.com/91go/docs-training@latest
+          echo -e "$(docs-training batch -w docs -n ${{ env.NUM }})" >> output.md
+      - name: Convert Markdown to HTML
+        run: |
+          go install github.com/kpym/gm@latest
+          gm output.md > output.html
+      - name: Convert HTML to RSS
+        run: |
+          go install github.com/91go/feedgen@latest
+          feedgen gen --filename output.html --title ${{ env.RSS_TITLE }} --author ${{ env.RSS_AUTHOR }} --description ${{ env.RSS_DESCRIPTION }} --mail ${{ env.RSS_MAIL }} --link ${{ env.RSS_LINK }} > feed.xml
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add feed.xml
+          git commit -m "Update site"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}

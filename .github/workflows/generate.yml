@@ -18,7 +18,7 @@ env:
   RSS_DESCRIPTION: "feedgen is a cli tool that help you quickly build RSS feed"
   RSS_AUTHOR: "nobody"
   RSS_MAIL: "nobody@gmail.com"
-  RSS_LINK: "https://github.com/dashboard"
+#  RSS_LINK: "https://github.com/dashboard"
 
 jobs:
   issue-weekly:
@@ -39,7 +39,7 @@ jobs:
       - name: Convert HTML to RSS
         run: |
           go install github.com/91go/feedgen@latest
-          feedgen gen --filename output.html --title ${{ env.RSS_TITLE }} --author ${{ env.RSS_AUTHOR }} --description ${{ env.RSS_DESCRIPTION }} --mail ${{ env.RSS_MAIL }} --link ${{ env.RSS_LINK }} > feed.xml
+          feedgen gen --filename output.html --title ${{ env.RSS_TITLE }} --author ${{ env.RSS_AUTHOR }} --description ${{ env.RSS_DESCRIPTION }} --mail ${{ env.RSS_MAIL }} > feed.xml
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

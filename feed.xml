@@ -4,7 +4,7 @@
     <link></link>
     <description>feedgen</description>
     <managingEditor>nobody@gmail.com (nobody)</managingEditor>
-    <pubDate>Wed, 22 Nov 2023 07:01:49 +0000</pubDate>
+    <pubDate>Wed, 22 Nov 2023 21:05:15 +0000</pubDate>
     <item>
       <title>[2023-11-22] interview-questions</title>
       <link></link>
@@ -20,102 +20,102 @@
     <article class="markdown-body">
 <h2 id="codetopmd">codetop.md</h2>
 <ul>
-<li><a href="https://leetcode.cn/problems/compare-version-numbers">比较版本号</a></li>
-<li><a href="https://leetcode.cn/problems/edit-distance">编辑距离</a></li>
-<li><a href="https://leetcode.cn/problems/jump-game">跳跃游戏</a></li>
-<li><a href="https://leetcode.cn/problems/balanced-binary-tree">平衡二叉树</a></li>
-<li><a href="https://leetcode.cn/problems/minimum-size-subarray-sum">长度最小的子数组</a></li>
-<li><a href="https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof">二叉搜索树的第k大节点</a></li>
-<li><a href="https://leetcode.cn/problems/check-completeness-of-a-binary-tree">二叉树的完全性检验</a></li>
-<li><a href="https://leetcode.cn/problems/binary-tree-postorder-traversal">二叉树的后序遍历</a></li>
-<li><a href="https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof">二叉搜索树与双向链表</a></li>
+<li><a href="https://leetcode.cn/problems/diagonal-traverse">对角线遍历</a></li>
+<li><a href="https://leetcode.cn/problems/next-permutation">下一个排列</a></li>
+<li><a href="https://leetcode.cn/problems/maximum-subarray">53. 最大子序和</a></li>
+<li><a href="https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii">买卖股票的最佳时机 III</a></li>
+<li><a href="https://leetcode.cn/problems/permutations">全排列</a></li>
 <li><a href="https://leetcode.cn/problems/number-of-islands">200. 岛屿数量</a></li>
-<li><a href="https://leetcode.cn/problems/longest-common-prefix">最长公共前缀</a></li>
-<li><a href="https://leetcode.cn/problems/course-schedule">课程表</a></li>
-<li><a href="https://leetcode.cn/problems/reverse-linked-list">206. 反转链表</a></li>
-<li><a href="https://leetcode.cn/problems/house-robber">打家劫舍</a></li>
-<li><a href="https://leetcode.cn/problems/kth-smallest-element-in-a-bst">二叉搜索树中第K小的元素</a></li>
-<li><a href="https://leetcode.cn/problems/merge-k-sorted-lists">合并K个排序链表</a></li>
-<li><a href="https://leetcode.cn/problems/sliding-window-maximum">滑动窗口最大值</a></li>
-<li><a href="https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof">数组中的逆序对</a></li>
-<li><a href="https://leetcode.cn/problems/binary-tree-maximum-path-sum">二叉树中的最大路径和</a></li>
-<li><a href="https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof">用两个栈实现队列</a></li>
-<li><a href="https://leetcode.cn/problems/word-break">单词拆分</a></li>
-<li><a href="https://leetcode.cn/problems/reverse-linked-list-ii">反转链表 II</a></li>
-<li><a href="https://leetcode.cn/problems/remove-duplicates-from-sorted-list">删除排序链表中的重复元素</a></li>
-<li><a href="https://leetcode.cn/problems/binary-tree-preorder-traversal">二叉树的前序遍历</a></li>
-<li><a href="https://leetcode.cn/problems/add-strings">字符串相加</a></li>
-<li><a href="https://leetcode.cn/problems/string-to-integer-atoi">字符串转换整数 (atoi)</a></li>
-<li><a href="https://leetcode.cn/problems/subarray-sum-equals-k">和为K的子数组</a></li>
-<li><a href="https://leetcode.cn/problems/climbing-stairs">爬楼梯</a></li>
-<li><a href="https://leetcode.cn/problems/https://mp.weixin.qq.com/s/pCRscwKqQdYYN7M1Sia7xA">检测循环依赖</a></li>
 <li><a href="https://leetcode.cn/problems/search-a-2d-matrix">搜索二维矩阵</a></li>
+<li><a href="https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof">最小的k个数</a></li>
+<li><a href="https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii">删除排序链表中的重复元素 II</a></li>
+<li><a href="https://leetcode.cn/problems/binary-tree-maximum-path-sum">二叉树中的最大路径和</a></li>
+<li><a href="https://leetcode.cn/problems/kth-largest-element-in-an-array">215. 数组中的第K个最大元素</a></li>
+<li><a href="https://leetcode.cn/problems/path-sum">路径总和</a></li>
+<li><a href="https://leetcode.cn/problems/maximum-length-of-repeated-subarray">最长重复子数组</a></li>
+<li><a href="https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof">链表中倒数第k个节点</a></li>
+<li><a href="https://leetcode.cn/problems/lfu-cache">LFU缓存</a></li>
+<li><a href="https://leetcode.cn/problems/swap-nodes-in-pairs">两两交换链表中的节点</a></li>
+<li><a href="https://leetcode.cn/problems/basic-calculator-ii">基本计算器 II</a></li>
+<li><a href="https://leetcode.cn/problems/binary-tree-level-order-traversal">102. 二叉树的层序遍历</a></li>
+<li><a href="https://leetcode.cn/problems/reverse-linked-list">206. 反转链表</a></li>
+<li><a href="https://leetcode.cn/problems/two-sum">1. 两数之和</a></li>
+<li><a href="https://leetcode.cn/problems/remove-duplicates-from-sorted-array">删除排序数组中的重复项</a></li>
+<li><a href="https://leetcode.cn/problems/climbing-stairs">爬楼梯</a></li>
+<li><a href="https://leetcode.cn/problems/copy-list-with-random-pointer">复制带随机指针的链表</a></li>
+<li><a href="https://leetcode.cn/problems/powx-n">Pow(x, n)</a></li>
+<li><a href="https://leetcode.cn/problems/remove-duplicates-from-sorted-list">删除排序链表中的重复元素</a></li>
+<li><a href="https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree">236. 二叉树的最近公共祖先</a></li>
+<li><a href="https://leetcode.cn/problems/validate-binary-search-tree">验证二叉搜索树</a></li>
+<li><a href="https://leetcode.cn/problems/subsets">子集</a></li>
+<li><a href="https://leetcode.cn/problems/sum-root-to-leaf-numbers">求根到叶子节点数字之和</a></li>
+<li><a href="https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof">调整数组顺序使奇数位于偶数前面</a></li>
 </ul>
 <h2 id="leetcodemd">leetcode.md</h2>
 <ul>
-<li><a href="https://leetcode-cn.com/problems/path-sum/">112. 路径总和</a></li>
-<li><a href="https://leetcode-cn.com/problems/word-search/">79. 单词搜索</a></li>
-<li><a href="https://leetcode-cn.com/problems/split-array-largest-sum/">410. 分割数组的最大值</a></li>
-<li><a href="https://leetcode-cn.com/problems/predict-the-winner/">486. 预测赢家</a></li>
-<li><a href="https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/">108. 将有序数组转换为二叉搜索树</a></li>
-<li><a href="https://leetcode-cn.com/problems/permutations/">46. 全排列</a></li>
-<li><a href="https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/">842. 将数组拆分成斐波那契序列</a></li>
+<li><a href="https://leetcode-cn.com/problems/accounts-merge/">721. 账户合并</a></li>
+<li><a href="https://leetcode-cn.com/problems/combination-sum/">39. 组合总和</a></li>
+<li><a href="https://leetcode-cn.com/problems/reverse-pairs/">493. 翻转对</a></li>
 <li><a href="https://leetcode-cn.com/problems/merge-two-binary-trees/">617. 合并二叉树</a></li>
-<li><a href="https://leetcode-cn.com/problems/4sum-ii/">454. 四数相加 II</a></li>
-<li><a href="https://leetcode-cn.com/problems/number-of-provinces/">547. 省份数量</a></li>
-<li><a href="https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/">703. 数据流中的第 K 大元素</a></li>
-<li><a href="https://leetcode-cn.com/problems/design-parking-system/">1603. 设计停车系统</a></li>
-<li><a href="https://leetcode-cn.com/problems/recover-binary-search-tree/">99. 恢复二叉搜索树</a></li>
-<li><a href="https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/">1319. 连通网络的操作次数</a></li>
-<li><a href="https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/">1232. 缀点成线</a></li>
+<li><a href="https://leetcode-cn.com/problems/binary-tree-paths/">257. 二叉树的所有路径</a></li>
+<li><a href="https://leetcode-cn.com/problems/word-search/">79. 单词搜索</a></li>
+<li><a href="https://leetcode-cn.com/problems/predict-the-winner/">486. 预测赢家</a></li>
+<li><a href="https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/">104. 二叉树的最大深度</a></li>
 <li><a href="https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/">378. 有序矩阵中第 K 小的元素</a></li>
-<li><a href="https://leetcode-cn.com/problems/target-sum/">494. 目标和</a></li>
-<li><a href="https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/">129. 求根节点到叶节点数字之和</a></li>
-<li><a href="https://leetcode-cn.com/problems/count-primes/">204. 计数质数</a></li>
-<li><a href="https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/">1203. 项目管理</a></li>
-<li><a href="https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/">787. K 站中转内最便宜的航班</a></li>
-<li><a href="https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/">230. 二叉搜索树中第K小的元素</a></li>
-<li><a href="https://leetcode-cn.com/problems/path-with-minimum-effort/">1631. 最小体力消耗路径</a></li>
-<li><a href="https://leetcode-cn.com/problems/path-sum-iii/">437. 路径总和 III</a></li>
-<li><a href="https://leetcode-cn.com/problems/circle-and-rectangle-overlapping/">1401. 圆和矩形是否有重叠</a></li>
-<li><a href="https://leetcode-cn.com/problems/lru-cache/">146. LRU 缓存机制</a></li>
-<li><a href="https://leetcode-cn.com/problems/super-egg-drop/">887. 鸡蛋掉落</a></li>
-<li><a href="https://leetcode-cn.com/problems/range-sum-query-mutable/">307. 区域和检索 - 数组可修改</a></li>
-<li><a href="https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/">34. 在排序数组中查找元素的第一个和最后一个位置</a></li>
 <li><a href="https://leetcode-cn.com/problems/combination-sum-ii/">40. 组合总和 II</a></li>
+<li><a href="https://leetcode-cn.com/problems/regular-expression-matching/">10. 正则表达式匹配</a></li>
+<li><a href="https://leetcode-cn.com/problems/target-sum/">494. 目标和</a></li>
+<li><a href="https://leetcode-cn.com/problems/range-sum-query-mutable/">307. 区域和检索 - 数组可修改</a></li>
+<li><a href="https://leetcode-cn.com/problems/super-ugly-number/">313. 超级丑数</a></li>
+<li><a href="https://leetcode-cn.com/problems/implement-trie-prefix-tree/">208. 实现 Trie (前缀树)</a></li>
+<li><a href="https://leetcode-cn.com/problems/reorganize-string/">767. 重构字符串</a></li>
+<li><a href="https://leetcode-cn.com/problems/generate-parentheses/">22. 括号生成</a></li>
+<li><a href="https://leetcode-cn.com/problems/best-position-for-a-service-centre/">1515. 服务中心的最佳位置</a></li>
+<li><a href="https://leetcode-cn.com/problems/longest-word-in-dictionary/">720. 词典中最长的单词</a></li>
+<li><a href="https://leetcode-cn.com/problems/surrounded-regions/">130. 被围绕的区域</a></li>
+<li><a href="https://leetcode-cn.com/problems/divide-two-integers/">29. 两数相除</a></li>
+<li><a href="https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/">842. 将数组拆分成斐波那契序列</a></li>
+<li><a href="https://leetcode-cn.com/problems/subsets-ii/">90. 子集 II</a></li>
+<li><a href="https://leetcode-cn.com/problems/minimum-time-visiting-all-points/">1266. 访问所有点的最小时间</a></li>
+<li><a href="https://leetcode-cn.com/problems/bus-routes/">815. 公交路线</a></li>
+<li><a href="https://leetcode-cn.com/problems/split-array-largest-sum/">410. 分割数组的最大值</a></li>
+<li><a href="https://leetcode-cn.com/problems/word-ladder/">127. 单词接龙</a></li>
+<li><a href="https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/">1293. 网格中的最短路径</a></li>
+<li><a href="https://leetcode-cn.com/problems/permutations/">46. 全排列</a></li>
+<li><a href="https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/">1353. 最多可以参加的会议数目</a></li>
 </ul>
 <h2 id="memd">me.md</h2>
 <ul>
-<li>怎么实现 gin 的路由算法？</li>
-<li>数组实现一个队列—队列是不限容量的，如何进行扩容</li>
-<li>n 个人预约网球场，时间不同，求最少需要多少个网球场。</li>
-<li>亿级数据里查找相同的字符以及出现次数</li>
-<li>怎么实现单文件分块并发下载？</li>
-<li>有一串数字，包含非 0 和 0，把 0 都放在右边，数字有序地放到左边？比如 103002305 转成 132350000，要求时间 O(n)，空间 O(1)</li>
-<li>实现一个 hashmap，解决 hash 冲突问题，解决 hash 倾斜问题？</li>
-<li>二叉树的中序遍历和层次遍历</li>
-<li>算法题，数组很长的情况下 N 个有序数组求交集并集</li>
-<li>合并两个有序的单链表</li>
-<li>字典序的第 k 小数字？lc440</li>
-<li>set 的两个特征？<em>没有重复对象 + 没有特定排序</em> 怎么实现 set？struct 好于 map，因为空 struct 是零内存</li>
-<li>123456789＝100，在里面插入＋或者—或者不插入符号，可以让等式成立？怎么暴力破解，以及大概需要遍历多少次？</li>
-<li>合并两个有序数组 lc88</li>
-<li>划分为 k 个相等的子集 (leetcode.698)</li>
-<li>n 个有序的单链表取交集？</li>
-<li>字符串 hash 算法的实现？</li>
-<li>有一个 16 大小的一个文件，里面每一行是一个词，词的大小不超过 16 字节，内存限制大小是 1M。返回频数最高的 100 个词。</li>
-<li>怎么使用 golang 实现 wrr 算法？</li>
-<li>实现一个有序 map，支持 add/delete/迭代</li>
 <li>假设当前消费 8 块，用户里面有 5 张优惠券 1、2、6、7、9，找出最接近的抵扣的优惠券，优先选出最接近的大的那个券的抵扣算法？</li>
-<li>算法：名人问题一道算法题：给一个无序有重复数字的数组，求第 K 大的数。算法题 2 个，leetcode 上都</li>
-<li>二叉树节点的公共祖先</li>
+<li>二叉树的最大深度</li>
+<li>二叉树的右视图</li>
+<li>剑指 offer38: 字符串的排列</li>
+<li>两个单向链表交叉，获取首次交叉的点</li>
+<li>求一个数组的中位数？用快速中位数算法或者最小堆</li>
+<li>合并两个有序数组 lc88</li>
+<li>说下快排的大概的操作过程？快排的平均的时间复杂度？快排什么情况下是最慢的？</li>
+<li>1 到 n 乱序排序的数据，少了其中一个，找出这个数</li>
+<li>通过中序遍历序列和先序序列恢复二叉树</li>
+<li>数组实现一个队列—队列是不限容量的，如何进行扩容</li>
+<li>算法题，数组很长的情况下 N 个有序数组求交集并集</li>
+<li>怎么实现 gin 的路由算法？</li>
+<li>如何以最快时间找到与给定点最近的点算法</li>
+<li>求根到叶子结点数字之和</li>
+<li>算法：括号匹配问题，说下思路</li>
+<li>数组中值出现一次的数字</li>
+<li>合并两个有序链表 (合并两个有序数组)</li>
+<li>算法：两个数组，求两个数组的交集</li>
+<li>字典序的第 k 小数字？lc440</li>
 <li>堆排序</li>
-<li>高并发的生产者消费者模式</li>
-<li>用 golang 手写 redis 的 pub/sub？至少给出伪代码</li>
-<li>给出 N 个小写英文字母串，以及 0 个询问，即询问某两个串的最长公共前级的长度是多少？</li>
-<li>写个递归实现无限级分类</li>
-<li>给你一个 1T 的文件，里面都是 IP 字段，需要对这个文件基于 IP 地址从小到大进行排序？</li>
-<li>双向链表的增删改查 golang 实现</li>
+<li>划分为 k 个相等的子集 (leetcode.698)</li>
+<li>最长回文字串长度</li>
+<li>实现一个有 pop、push、max 的队列数据结构（list），要求尽可能降低时间复杂度？</li>
+<li>10 亿的数据，每个文件 1000 万行，共 100 个文件，找出前 1 万大</li>
+<li>有一串数字，包含非 0 和 0，把 0 都放在右边，数字有序地放到左边？比如 103002305 转成 132350000，要求时间 O(n)，空间 O(1)</li>
+<li>如何查找一个无序数组的第 K 大元素</li>
+<li>1000 万字符串，其中有些是重复的，需要把重复的全部去掉，保留没有重复的字符串。</li>
+<li>123456789＝100，在里面插入＋或者—或者不插入符号，可以让等式成立？怎么暴力破解，以及大概需要遍历多少次？</li>
+<li>背包容量 150，7 个物品，每个物品重量价值不同，要求装入包中物品价值最大。</li>
 </ul>
 
     </article>
@@ -123,8 +123,8 @@
 </html>
 ]]></content:encoded>
       <author>nobody</author>
-      <guid>1700636509</guid>
-      <pubDate>Wed, 22 Nov 2023 07:01:49 +0000</pubDate>
+      <guid>1700687115</guid>
+      <pubDate>Wed, 22 Nov 2023 21:05:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

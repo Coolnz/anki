@@ -1,0 +1,132 @@
+
+《云原生训练营 2022 年最新 Kubernetes 常见面试题汇总-V2.pdf》
+
+https://alist.wrss.top/d/books/%E4%BA%91%E5%8E%9F%E7%94%9F%E8%AE%AD%E7%BB%83%E8%90%A5%202022%20%E5%B9%B4%E6%9C%80%E6%96%B0%20Kubernetes%20%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98%E6%B1%87%E6%80%BB-V2.pdf?sign=I4mevtlLLgA_Pj8ndu1R8qKdUtt5Uh_EkRuv2VFWlSc=:0
+
+
+- 简述etcd 及其特点？
+- 简述etcd 适应的场景？
+- 简述什么是 Kubernetes?
+- 简述Kubernetes 和Docker 的关系？
+- 简述Kubernetes 中什么是Minikube、Kubectl、Kubelet?
+- 简述Kubernetes 常见的部署方式？
+- 简述Kubernetes 如何实现集群管理？
+- 简述Kubernetes 的优势、适应场景及其特点？
+- 简述Kubernetes 的缺点或当前的不足之处？
+- 简述Kubernetes 相关基础概念？
+- 简述Kubernetes 集群相关组件？
+- 简述Kubernetes RC 的机制？
+- 简述Kubernetes Replica set 和 Replication Controller 之间有什么区别？
+- 简述kube-proxy 作用？
+- 简述kube-proxy iptables 原理？
+- 筒述 kube-proxy ipvs 原理？
+- 简述kube-proxy ipvs 和 iptables 的异同？
+- 简述Kubernetes 中什么是静态 Pod?
+- 筒述 Kubernetes 中 Pod 可能位子的状恋？.....
+- 筒述 Kubernetes 創建一个 Pod 的主要流程？
+- 简述Kubernetes 中Pod 的重启策略？
+- 筒述Kubernetes 中 Pod 的健康棯査方式?......
+- 筒述 Kubernetes Pod 的 LivenessProbe 探針的常兄方式？..
+- 简述Kubernetes Pod 的常见调度方式？
+- 简述Kubernetes 初始化容器 (init container) ?
+- 简述Kubernetes deployment 升级过程？
+- 筒述 Kubernetes deployment 升級策路?....
+- 筒述Kubernetes Daemonset 类型的餐源特性？
+- 简述Kubernetes 自动扩容机制？
+- 筒述 Kubernetes Service 类型?.........
+- 简述Kubernetes Service 分发后端的策略？
+- 简述Kubernetes 外部如何访问集群内的服务？
+- 简述Kubernetes 镜像的下载策略？
+- 简述Kubernetes 的负载均衡器？.
+- 简述Kubernetes 各模块如何与 API Server通信？
+- 简述Kubernetes Scheduler 作用及实现原理？.…
+- 简述 Kubernetes Scheduler 使用哪两种算法将 Pod 绑定到 worker 节点？
+- 简述 Kubernetes kubelet 的作用？
+- 简述 Kubernetes kubelet 监控 worker 节点资源是使用什么组件来实现的？
+- 简述Kubernetes 如何保证集群的安全性？
+- 简述Kubernetes 准入机制？….
+- 简述Kubernetes RBAC 及其特点（优势）？.….
+- 简述Kubernetes Secret 作用？.....
+- 简述Kubernetes Secret 有哪些使用方式？
+- 简述Kubernetes PodsecurityPolicy 机制？ ..
+- 简述Kubernetes CNI模型？
+- 简述Kubernetes 网络策略？
+- 简述Kubernetes 网络策略原理？.
+- 简述Kubernetes 中flannel的作用？.….
+- 简述Kubernetes Calico 网络组件实现原理？
+- 简述Kubernetes 共享存储的作用？
+- 简述Kubernetes 数据持久化的方式有哪些？.
+- 简述Kubernetes Pv和PVC?
+- 简述Kubernetes pv 生命周期内的阶段？
+- 简述Kubernetes 所支持的存储供应模式？
+- 简述Kubernetes CSl模型？
+- 简述Kubernetes Worker 节点加入集群的过程？
+- 简述Kubernetes Pod 如何实现对节点的资源控制？
+- 简述Kubernetes Requests 和 Limits 如何影响 Pod 的调度？.
+- 简述Kubernetes 中，如何使用 EFK 实现日志的统一管理？……..
+- 简述Kubernetes 如何进行优雅的节点关机维护？
+- 简述Kubernetes 集群联邦？
+- 简述Helm 及其优势？
+- 考虑一家拥有分布式系统的跨国公司，拥有大量数据中心，虛拟机和许多从事各种任务的员工。您认为这样公司如何以与Kubernetes 一致的方式管理所有任务？.-
+- 考虑一种情况，即公司希望通过维持最低成本来提高其效率和技术运营速度。您认为公司将如何实现这一目标？.
+- 假设一家公司想要修改它的部署方法，并希望建立一个更具可扩展性和响应性的平台。您如何看待这家公司能够实现这一目标以满足客户需求？.………
+- 考虑一家拥有非常分散的系统的跨国公司，期待解决整体代码库问题。您认为公司如何解决他们的问题？.
+- 我们所有人都知道，从单片到微服务的转变解决了开发方面的问题，但却增加了部署方面的问题。公司如何解决部署方面的问题？
+- 考虑一家拼车公司希望通过同时扩展其平台来增加服务器数量,公司如何有效地实现这种资源分配？….
+- 您认为公司如何处理服务器及其安装？.
+- 考虑一种情况，公司希望向具有各种环境的客户提供所有必需的分发。您认为他们如何以动态的方式实现这一关键目标？..
+- 假设公司希望在不同的云基础架构上运行各种工作负载，从裸机到公共云。公司将如何在不同界面的存在下实现这一目标？.…
+- 什么是 Google 容器引擎？
+- 您如何看待公司从单一服务转向微服务并部署其服务容器？
+- 什么是 Headless Service?
+- 简述你知道的几种CNI 网络插件，并详述其工作原理。K-常用的 CNI网络插件 (calico && flannel)，简述一下它们的工作原理和区别。
+- Worker 市点宿机，筒込 Pods 駆逐流程...........................
+- 简述你知道的 K- 中几种 Controller 控制器，并详述其工作原理。简述 ingress-controller 的工作机制。
+- 简述k-调度机制。
+- 简述kube-proxy 的三种工作模式和原理。
+- 每个Pod 中有一个特殊的 Pause 容器，能否去除，简达原因。
+- 简述pod 中readness 和 liveness 的区别和各自应用场景。
+- Pod 启动失败如何解决以及常见的原因有哪些…
+- 简述K-label 的几种应用场景。
+- Docker 的図路通信模式。…
+- 你所用的到的日志分析工具有哪些以及它们如何与 K-集群通讯。…......-
+- kubelet 与kubeproxy 作用。kubeproxy 的三种代理模式和各自的原理以
+- Iptables 四个表五个链。………•
+- Kubernetes 如何简化容器化部署？
+- Kubernetes 体系结构有哪些不同的组成部分？
+- 您能否简要介绍一下 Kubernetes 中主节点的工作？
+- kube-apiserver 和kube-scheduler 的作用是什么？
+- 您对云控制器经理了解什么？.…..….
+- 什么是容器资源监视？
+- 副本集和复制控制器之问有什么区别？
+- 使用 Kubernetes 时可以采取的最佳安全措施是什么？
+- 什么是联合集群？
+- 假设一家基于整体架构的公司处理许多产品。现在，随着公司在当今规模化行业中的发展，其整体架构开始引起问题。您如何看待公司从单一服务转向微服务并部署其服务容器？.…
+- 考虑一家拥有非常分散的系统，拥有大量数据中心，虚拟机以及许多从事各种任务的员工的跨国公司。您认为这样 的公司如何与Kubernetes 一致地管理所有任务？
+- 考虑一种情况，公司希望通过保持最低成本来提高效率和技术运营速度。您如何看待公司将如何实现这一目标？
+- 假设一家公司想要修改其部署方法，并希望构建一个可扩展性和响应性更高的平台。您如何看待这家公司能够实现这一目标以满足他们的客户？.
+- 考虑一家拥有非常分散的系统的跨国公司，希望解决整体代码库问题。您认为公司如何解决他们的问题？.…
+- 我们所有人都知道从单服务到微服务的转变从开发方面解决了问题，但在部署方面却增加了问题。公司如何解决部署方面的问题？
+- 假设一家公司希望通过采用新技术来优化其工作负载的分配。公司如何有效地实现这种资源分配？…
+- 考虑一家拼车公司希望通过同时扩展其平台来增加服务器数量。您认为公司将如何处理服务器及其安装？......
+-考虑一个公司要向具有各种环境的客户提供所有必需的分发产品的方案。您如何看待他们如何动态地实现这一关键目标？
+- 假设一家公司希望在从裸机到公共云的不同云基础架构上运行各种工作负载。在存在不同接口的情况不，公司将如何实现这一目标？
+- K- 集群服务访问失败？
+- K-集群服务访问失败？
+- K-集群服务暴露失败？
+- 外网无法访问 K-群提供的服务？
+- pod 状态为 ErrlmagePull?
+- 创建 init C容器后，其状态不正常？……
+- 探测存活 pod 状态为 CrashLoopBackoff?
+- POD创建失败？
+- POD的ready 状态未进入？.........
+- pod 创建失败？
+- kube-flannel-ds-amd-ndsf-t- pod if status ½ Init:-- .......-
+- K- 创建服务status 为 ErrlmagePull?
+- 不能进入指定容器内部？
+- 创建PV 失败？
+- pod 无法挂载 PVC?
+- 问题：pod 使用PV后，无法访问其内容？
+- 查看节点状态失败？
+- pod一直处于 pending'状态？
+- helm 安装组件失败？

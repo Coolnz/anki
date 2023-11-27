@@ -4,9 +4,9 @@
     <link></link>
     <description>feedgen</description>
     <managingEditor>nobody@gmail.com (nobody)</managingEditor>
-    <pubDate>Sun, 26 Nov 2023 21:04:48 +0000</pubDate>
+    <pubDate>Mon, 27 Nov 2023 21:05:50 +0000</pubDate>
     <item>
-      <title>[2023-11-26] interview-questions</title>
+      <title>[2023-11-27] interview-questions</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<!DOCTYPE html>
@@ -20,168 +20,168 @@
     <article class="markdown-body">
 <h2 id="codetopmd">codetop.md</h2>
 <ul>
-<li><a href="https://leetcode.cn/problems/symmetric-tree">对称二叉树</a></li>
-<li><a href="https://leetcode.cn/problems/valid-parentheses">20. 有效的括号</a></li>
-<li><a href="https://leetcode.cn/problems/median-of-two-sorted-arrays">寻找两个正序数组的中位数</a></li>
-<li><a href="https://leetcode.cn/problems/path-sum-ii">路径总和 II</a></li>
-<li><a href="https://leetcode.cn/problems/copy-list-with-random-pointer">复制带随机指针的链表</a></li>
-<li><a href="https://leetcode.cn/problems/reverse-integer">整数反转</a></li>
-<li><a href="https://leetcode.cn/problems/longest-consecutive-sequence">最长连续序列</a></li>
-<li><a href="https://leetcode.cn/problems/palindrome-linked-list">回文链表</a></li>
-<li><a href="https://leetcode.cn/problems/reverse-linked-list">206. 反转链表</a></li>
-<li><a href="https://leetcode.cn/problems/lru-cache">146. LRU缓存机制</a></li>
-<li><a href="https://leetcode.cn/problems/sort-an-array">手撕归并排序</a></li>
-<li><a href="https://leetcode.cn/problems/coin-change">零钱兑换</a></li>
-<li><a href="https://leetcode.cn/problems/remove-nth-node-from-end-of-list">删除链表的倒数第N个节点</a></li>
-<li><a href="https://leetcode.cn/problems/binary-tree-maximum-path-sum">二叉树中的最大路径和</a></li>
-<li><a href="https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii">买卖股票的最佳时机 III</a></li>
-<li><a href="https://leetcode.cn/problems/invert-binary-tree">翻转二叉树</a></li>
-<li><a href="https://leetcode.cn/problems/min-stack">最小栈</a></li>
-<li><a href="https://leetcode.cn/problems/longest-common-subsequence">最长公共子序列</a></li>
-<li><a href="https://leetcode.cn/problems/rotate-image">旋转图像</a></li>
-<li><a href="https://leetcode.cn/problems/validate-binary-search-tree">验证二叉搜索树</a></li>
-<li><a href="https://leetcode.cn/problems/coin-change-2">零钱兑换 II</a></li>
-<li><a href="https://leetcode.cn/problems/binary-tree-level-order-traversal">102. 二叉树的层序遍历</a></li>
+<li><a href="https://leetcode.cn/problems/balanced-binary-tree">平衡二叉树</a></li>
+<li><a href="https://leetcode.cn/problems/https://mp.weixin.qq.com/s/0WVa2wIAeG0nYnVndZiEXQ">排序奇升偶降链表</a></li>
+<li><a href="https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof">青蛙跳台阶问题</a></li>
+<li><a href="https://leetcode.cn/problems/kth-smallest-element-in-a-bst">二叉搜索树中第K小的元素</a></li>
+<li><a href="https://leetcode.cn/problems/word-search">单词搜索</a></li>
+<li><a href="https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof">最小的k个数</a></li>
+<li><a href="https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal">从前序与中序遍历序列构造二叉树</a></li>
 <li><a href="https://leetcode.cn/problems/search-a-2d-matrix-ii">搜索二维矩阵 II</a></li>
-<li><a href="https://leetcode.cn/problems/permutations-ii">全排列 II</a></li>
-<li><a href="https://leetcode.cn/problems/spiral-matrix">螺旋矩阵</a></li>
-<li><a href="https://leetcode.cn/problems/serialize-and-deserialize-binary-tree">二叉树的序列化与反序列化</a></li>
-<li><a href="https://leetcode.cn/problems/sliding-window-maximum">滑动窗口最大值</a></li>
-<li><a href="https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof">调整数组顺序使奇数位于偶数前面</a></li>
-<li><a href="https://leetcode.cn/problems/3sum">15. 三数之和</a></li>
-<li><a href="https://leetcode.cn/problems/reverse-nodes-in-k-group">25. K 个一组翻转链表</a></li>
+<li><a href="https://leetcode.cn/problems/sort-an-array">手撕堆排序</a></li>
+<li><a href="https://leetcode.cn/problems/merge-intervals">合并区间</a></li>
+<li><a href="https://leetcode.cn/problems/edit-distance">编辑距离</a></li>
+<li><a href="https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof">斐波那契数列</a></li>
+<li><a href="https://leetcode.cn/problems/word-break">单词拆分</a></li>
+<li><a href="https://leetcode.cn/problems/coin-change-2">零钱兑换 II</a></li>
+<li><a href="https://leetcode.cn/problems/copy-list-with-random-pointer">复制带随机指针的链表</a></li>
+<li><a href="https://leetcode.cn/problems/validate-binary-search-tree">验证二叉搜索树</a></li>
+<li><a href="https://leetcode.cn/problems/sort-colors">颜色分类</a></li>
+<li><a href="https://leetcode.cn/problems/merge-sorted-array">88. 合并两个有序数组</a></li>
+<li><a href="https://leetcode.cn/problems/best-time-to-buy-and-sell-stock">121. 买卖股票的最佳时机</a></li>
+<li><a href="https://leetcode.cn/problems/binary-tree-postorder-traversal">二叉树的后序遍历</a></li>
+<li><a href="https://leetcode.cn/problems/decode-string">字符串解码</a></li>
+<li><a href="https://leetcode.cn/problems/sort-an-array">手撕归并排序</a></li>
+<li><a href="https://leetcode.cn/problems/minimum-window-substring">最小覆盖子串</a></li>
+<li><a href="https://leetcode.cn/problems/add-two-numbers">两数相加</a></li>
+<li><a href="https://leetcode.cn/problems/valid-parentheses">20. 有效的括号</a></li>
+<li><a href="https://leetcode.cn/problems/invert-binary-tree">翻转二叉树</a></li>
+<li><a href="https://leetcode.cn/problems/sum-root-to-leaf-numbers">求根到叶子节点数字之和</a></li>
+<li><a href="https://leetcode.cn/problems/subarray-sum-equals-k">和为K的子数组</a></li>
+<li><a href="https://leetcode.cn/problems/container-with-most-water">盛最多水的容器</a></li>
+<li><a href="https://leetcode.cn/problems/path-sum">路径总和</a></li>
 </ul>
 <h2 id="geektime-k8smd">geektime-k8s.md</h2>
 <ul>
-<li>筒述 Kubernetes deployment 升級策路?&hellip;.</li>
-<li>Kubernetes 体系结构有哪些不同的组成部分？</li>
-<li>简述Kubernetes Pod 如何实现对节点的资源控制？</li>
-<li>什么是容器资源监视？</li>
-<li>你所用的到的日志分析工具有哪些以及它们如何与 K-集群通讯。…&hellip;&hellip;-</li>
-<li>我们所有人都知道，从单片到微服务的转变解决了开发方面的问题，但却增加了部署方面的问题。公司如何解决部署方面的问题？</li>
-<li>简述Kubernetes CNI模型？</li>
-<li>不能进入指定容器内部？</li>
+<li>筒述 Kubernetes 創建一个 Pod 的主要流程？</li>
+<li>假设一家公司想要修改它的部署方法，并希望建立一个更具可扩展性和响应性的平台。您如何看待这家公司能够实现这一目标以满足客户需求？.………</li>
+<li>筒述 Kubernetes Pod 的 LivenessProbe 探針的常兄方式？..</li>
+<li>简述Kubernetes Requests 和 Limits 如何影响 Pod 的调度？.</li>
+<li>简述pod 中readness 和 liveness 的区别和各自应用场景。</li>
+<li>简述Kubernetes 如何实现集群管理？</li>
+<li>考虑一家拼车公司希望通过同时扩展其平台来增加服务器数量,公司如何有效地实现这种资源分配？….</li>
+<li>您如何看待公司从单一服务转向微服务并部署其服务容器？</li>
+<li>简述Kubernetes Pv和PVC?</li>
+<li>简述kube-proxy 的三种工作模式和原理。</li>
 <li>您能否简要介绍一下 Kubernetes 中主节点的工作？</li>
-<li>副本集和复制控制器之问有什么区别？</li>
-<li>外网无法访问 K-群提供的服务？</li>
-<li>K-集群服务暴露失败？</li>
-<li>什么是 Headless Service?</li>
-<li>筒述 Kubernetes Service 类型?&hellip;&hellip;&hellip;</li>
-<li>简述Kubernetes 常见的部署方式？</li>
-<li>简述Kubernetes 准入机制？….</li>
-<li>简述Kubernetes 相关基础概念？</li>
-<li>简述Kubernetes Replica set 和 Replication Controller 之间有什么区别？</li>
-<li>简述Kubernetes 集群联邦？</li>
-<li>什么是联合集群？</li>
-<li>简述Kubernetes 集群相关组件？</li>
+<li>K-集群服务访问失败？</li>
+<li>简述你知道的 K- 中几种 Controller 控制器，并详述其工作原理。简述 ingress-controller 的工作机制。</li>
+<li>简述Kubernetes 各模块如何与 API Server通信？</li>
+<li>简述Kubernetes RBAC 及其特点（优势）？.….</li>
+<li>简述Kubernetes PodsecurityPolicy 机制？ ..</li>
+<li>简述Kubernetes Service 分发后端的策略？</li>
+<li>简述Kubernetes Secret 有哪些使用方式？</li>
+<li>简述Kubernetes 所支持的存储供应模式？</li>
+<li>我们所有人都知道从单服务到微服务的转变从开发方面解决了问题，但在部署方面却增加了问题。公司如何解决部署方面的问题？</li>
+<li>考虑一种情况，即公司希望通过维持最低成本来提高其效率和技术运营速度。您认为公司将如何实现这一目标？.</li>
+<li>简述Kubernetes 中什么是Minikube、Kubectl、Kubelet?</li>
+<li>考虑一家拥有分布式系统的跨国公司，拥有大量数据中心，虛拟机和许多从事各种任务的员工。您认为这样公司如何以与Kubernetes 一致的方式管理所有任务？.-</li>
+<li>Pod 启动失败如何解决以及常见的原因有哪些…</li>
+<li>简述k-调度机制。</li>
+<li>pod 无法挂载 PVC?</li>
 <li>简述Kubernetes 中flannel的作用？.….</li>
-<li>假设一家公司希望通过采用新技术来优化其工作负载的分配。公司如何有效地实现这种资源分配？…</li>
-<li>简述Kubernetes 共享存储的作用？</li>
-<li>简述Kubernetes 的负载均衡器？.</li>
-<li>简述kube-proxy iptables 原理？</li>
-<li>简述Kubernetes 中什么是静态 Pod?</li>
-<li>简述什么是 Kubernetes?</li>
-<li>pod 创建失败？</li>
-<li>Iptables 四个表五个链。………•</li>
+<li>简述Kubernetes pv 生命周期内的阶段？</li>
+<li>简述Kubernetes deployment 升级过程？</li>
+<li>简述Kubernetes 中，如何使用 EFK 实现日志的统一管理？……..</li>
 </ul>
 <h2 id="leetcodemd">leetcode.md</h2>
 <ul>
-<li><a href="https://leetcode-cn.com/problems/can-i-win/">464. 我能赢吗</a></li>
-<li><a href="https://leetcode-cn.com/problems/bus-routes/">815. 公交路线</a></li>
-<li><a href="https://leetcode-cn.com/problems/longest-increasing-subsequence/">300. 最长递增子序列</a></li>
-<li><a href="https://leetcode-cn.com/problems/target-sum/">494. 目标和</a></li>
-<li><a href="https://leetcode-cn.com/problems/split-array-largest-sum/">410. 分割数组的最大值</a></li>
-<li><a href="https://leetcode-cn.com/problems/shortest-bridge/">934. 最短的桥</a></li>
-<li><a href="https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/">1319. 连通网络的操作次数</a></li>
-<li><a href="https://leetcode-cn.com/problems/restore-ip-addresses/">93. 复原 IP 地址</a></li>
-<li><a href="https://leetcode-cn.com/problems/validate-binary-search-tree/">98. 验证二叉搜索树</a></li>
-<li><a href="https://leetcode-cn.com/problems/number-of-provinces/">547. 省份数量</a></li>
-<li><a href="https://leetcode-cn.com/problems/longest-consecutive-sequence/">128. 最长连续序列</a></li>
-<li><a href="https://leetcode-cn.com/problems/circle-and-rectangle-overlapping/">1401. 圆和矩形是否有重叠</a></li>
-<li><a href="https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/">230. 二叉搜索树中第K小的元素</a></li>
-<li><a href="https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/">1232. 缀点成线</a></li>
+<li><a href="https://leetcode-cn.com/problems/accounts-merge/">721. 账户合并</a></li>
+<li><a href="https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/">378. 有序矩阵中第 K 小的元素</a></li>
+<li><a href="https://leetcode-cn.com/problems/rectangle-area-ii/">850. 矩形面积 II</a></li>
+<li><a href="https://leetcode-cn.com/problems/gray-code/">89. 格雷编码</a></li>
 <li><a href="https://leetcode-cn.com/problems/course-schedule-ii/">210. 课程表 II</a></li>
-<li><a href="https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/">1232. 缀点成线</a></li>
-<li><a href="https://leetcode-cn.com/problems/diameter-of-binary-tree/">543. 二叉树的直径</a></li>
-<li><a href="https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/">114. 二叉树展开为链表</a></li>
-<li><a href="https://leetcode-cn.com/problems/pacific-atlantic-water-flow/">417. 太平洋大西洋水流问题</a></li>
-<li><a href="https://leetcode-cn.com/problems/balanced-binary-tree/">110. 平衡二叉树</a></li>
-<li><a href="https://leetcode-cn.com/problems/find-median-from-data-stream/">295. 数据流的中位数</a></li>
-<li><a href="https://leetcode-cn.com/problems/permutations/">46. 全排列</a></li>
-<li><a href="https://leetcode-cn.com/problems/divide-two-integers/">29. 两数相除</a></li>
 <li><a href="https://leetcode-cn.com/problems/count-primes/">204. 计数质数</a></li>
-<li><a href="https://leetcode-cn.com/problems/design-hashmap/">706. 设计哈希映射</a></li>
-<li><a href="https://leetcode-cn.com/problems/ugly-number-ii/">264. 丑数 II</a></li>
-<li><a href="https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/">108. 将有序数组转换为二叉搜索树</a></li>
-<li><a href="https://leetcode-cn.com/problems/super-egg-drop/">887. 鸡蛋掉落</a></li>
+<li><a href="https://leetcode-cn.com/problems/permutations/">46. 全排列</a></li>
+<li><a href="https://leetcode-cn.com/problems/4sum-ii/">454. 四数相加 II</a></li>
+<li><a href="https://leetcode-cn.com/problems/count-of-range-sum/">327. 区间和的个数</a></li>
+<li><a href="https://leetcode-cn.com/problems/path-sum/">112. 路径总和</a></li>
+<li><a href="https://leetcode-cn.com/problems/number-of-provinces/">547. 省份数量</a></li>
+<li><a href="https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/">329. 矩阵中的最长递增路径</a></li>
+<li><a href="https://leetcode-cn.com/problems/couples-holding-hands/">765. 情侣牵手</a></li>
+<li><a href="https://leetcode-cn.com/problems/split-array-largest-sum/">410. 分割数组的最大值</a></li>
+<li><a href="https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/">124. 二叉树中的最大路径和</a></li>
+<li><a href="https://leetcode-cn.com/problems/combination-sum-iii/">216. 组合总和 III</a></li>
+<li><a href="https://leetcode-cn.com/problems/implement-trie-prefix-tree/">208. 实现 Trie (前缀树)</a></li>
+<li><a href="https://leetcode-cn.com/problems/lru-cache/">146. LRU 缓存机制</a></li>
+<li><a href="https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/">1232. 缀点成线</a></li>
+<li><a href="https://leetcode-cn.com/problems/design-parking-system/">1603. 设计停车系统</a></li>
+<li><a href="https://leetcode-cn.com/problems/minimum-area-rectangle-ii/">963. 最小面积矩形 II</a></li>
+<li><a href="https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/">154. 寻找旋转排序数组中的最小值 II</a></li>
+<li><a href="https://leetcode-cn.com/problems/subsets/">78. 子集</a></li>
+<li><a href="https://leetcode-cn.com/problems/sliding-puzzle/">773. 滑动谜题</a></li>
 <li><a href="https://leetcode-cn.com/problems/divide-two-integers/">29. 两数相除</a></li>
-<li><a href="https://leetcode-cn.com/problems/find-the-duplicate-number/">287. 寻找重复数</a></li>
+<li><a href="https://leetcode-cn.com/problems/binary-search-tree-iterator/">173. 二叉搜索树迭代器</a></li>
+<li><a href="https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/">1319. 连通网络的操作次数</a></li>
+<li><a href="https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/">111. 二叉树的最小深度</a></li>
+<li><a href="https://leetcode-cn.com/problems/bus-routes/">815. 公交路线</a></li>
+<li><a href="https://leetcode-cn.com/problems/word-ladder/">127. 单词接龙</a></li>
 </ul>
 <h2 id="memd">me.md</h2>
 <ul>
-<li>n 个有序的单链表取交集？</li>
-<li><em>手写实现 golang 中 map 的有序查找，且支持 add、支持 delete、支持迭代？构造一个辅助 slice</em></li>
-<li>手撕代码生产者消费者模型</li>
-<li>手写“哲学家就餐问题”？</li>
-<li>检验字符串是一个回文字符串？</li>
-<li>算法：名人问题一道算法题：给一个无序有重复数字的数组，求第 K 大的数。算法题 2 个，leetcode 上都</li>
-<li>写一个验证标准 ipv4 的算法</li>
-<li>64 匹马 8 个栈道以最少的次数找出最快的 4 匹马 6：剑指 offer 原题，二维数组每行从左向右递增，每列从上到下递增，找出指定的数的位置，求时间复杂度，优化 7:1000 万个数找出最大的 10 个</li>
-<li>并发去 ping n 个网站，最多重试 3 次，怎么提升该场景的性能？</li>
-<li>写个递归实现无限级分类</li>
 <li>手写获取两个字符串的公共字符，返回一个字符串，需要返回的字符串不能重复</li>
-<li>写一个 golang 爬虫，自动伸缩，自适应流控，也就是说在对方限流时就减少并发数，没有限制时使用最大并发数？类似 TCP 的滑动窗口</li>
-<li>合并 k 个升序链表 zxxx</li>
-<li>用 hash 和堆、trie 树实现词频统计，比较一下</li>
-<li>n 个人预约网球场，时间不同，求最少需要多少个网球场。</li>
-<li>怎么自己实现阻塞读并且并发安全的 map？</li>
-<li>判断链表是否成环（龟兔赛跑）？</li>
 <li>一个文本文件，大约有一万行，每行一个词，要求统计出其中最频繁出现的前 10 个词，请给出思想，给出时间复杂度分析。</li>
-<li>高并发的生产者消费者模式</li>
-<li>爬楼梯问题</li>
-<li>二分查找，一个数在数组里出现的次数？</li>
+<li>找到字符串的最长无重复字串</li>
+<li>如何以最快时间找到与给定点最近的点算法</li>
+<li>两个单向链表交叉，获取首次交叉的点</li>
+<li><a href="https://leetcode-cn.com/problems/number-of-provinces/">547. 省份数量 - 力扣（LeetCode）</a></li>
 <li>怎么实现 gin 的中间件？</li>
-<li>使用 chan 下载远程文件，在控制台打印进度条</li>
+<li>二分查找，一个数在数组里出现的次数？</li>
+<li>如何原地交换两个数</li>
+<li>亿级数据里查找相同的字符以及出现次数</li>
+<li>数组中重复的数据？元素归位法或者把其中的重复元素构造成负数</li>
+<li>找出两个大文件的交集</li>
+<li>实现一个有序 map，支持 add/delete/迭代</li>
+<li>通过中序遍历序列和先序序列恢复二叉树</li>
+<li>二叉搜索树，两个节点被交换位置了，怎么恢复？leetcode.99</li>
+<li>手写用 map 实现 set，支持 CURD？</li>
 <li>判断二叉树是否为平衡二叉树</li>
-<li>AB 数组升序 中间数 lc4</li>
-<li>怎么使用 golang 实现 wrr 算法？</li>
-<li>单链表和双链表的反转？</li>
-<li>1 到 n 乱序排序的数据，少了其中一个，找出这个数</li>
-<li>链表相加 <a href="https://zhuanlan.zhihu.com/p/480342701">leetcode 链表相加 - 知乎</a></li>
-<li>合并两个有序数组 lc88</li>
+<li>如何查找一个无序数组的第 K 大元素</li>
+<li>数组存在两个出现奇数次数的值，按序输出？  <a href="https://zhuanlan.zhihu.com/p/373580530">LeetCode&ndash; 数组中找到出现奇数次的 2 个数字 - 知乎</a></li>
+<li>连续子数组的最大和 offer42</li>
+<li>二叉树的最大深度</li>
+<li>寻找两个升序数组的第 k 大值</li>
+<li>10 亿的数据，每个文件 1000 万行，共 100 个文件，找出前 1 万大</li>
+<li>写一个验证标准 ipv4 的算法</li>
+<li>机器人路径文 i，n*m 的矩阵，从[0,0]到[n,m]有几种走法？</li>
+<li>实现一个 hashmap，解决 hash 冲突问题，解决 hash 倾斜问题？</li>
+<li>用 hash 和堆、trie 树实现词频统计，比较一下</li>
+<li>给你一字符串、abcabc 找出最长出现偶数次的字符串</li>
+<li>算法题 10 进制转 7 进制</li>
+<li>多线程—两个线程同时对两个数进行加减操作，如何实现安全</li>
 </ul>
 <h2 id="qsmd">qs.md</h2>
 <ul>
-<li>Http1和Http2和Grpc之间的区别是什么</li>
-<li>Go的Context包的用途是什么</li>
-<li>实现阻塞读的并发安全Map</li>
-<li>Go的GPM如何调度</li>
-<li>redis的分布式锁用过吗，怎么用的？</li>
-<li>RWMutex使用过吗，主要用在什么样的场景，有哪几种方法，解决reader-writers的问题有几种实现方式，go中的RWMutex使用哪种方式？</li>
-<li>mysql 索引的类型以及索引的数据结构</li>
-<li>redo log和bin log的区别</li>
-<li>你是如何监控你们的数据库的？你们的慢日志都是怎么查询的？</li>
-<li>项目中数据库连接池是怎么用的?为什么需要数据库连接池呢</li>
-<li>gc  背不下来，提桶跑路吧。插一句，这个有的公司喜欢问各个版本 stw 的时机都是什么。</li>
-<li>Go的内存分配说一下</li>
-<li>context包的用途</li>
-<li>实现消息队列（多生产者，多消费者）</li>
-<li>mysql底层有哪几种实现方式</li>
-<li>目前 Mutex 的 state 字段有几个意义，这几个意义分别是由哪些字段表示的？等待一个 Mutex 的 goroutine 数最大是多少？是否能满足现实的需求？</li>
-<li>Mysql中乐观锁和悲观锁区别</li>
-<li>进程和进程间的通信方式区别和不同</li>
-<li>Mysql中的MVCC是什么</li>
-<li>Go值接收者和指针接收者的区别</li>
-<li>http keep-alive</li>
-<li>最大回文子串</li>
-<li>MySQL主从同步的过程是什么样的？</li>
-<li>包括事务隔离级别，各个隔离界别解决的问题，mvvc 的原理等。</li>
-<li>mysql的高可用是怎么做的</li>
-<li>Channel是同步的还是异步的</li>
-<li>tcp、ip 相关的一些问题，比如三次握手、四次挥手、time_wait 等等。</li>
-<li>Go的defer原理是什么</li>
-<li>TFO的原理是什么</li>
-<li>滑动窗口最大值</li>
+<li>kafka的IR和高水位是什么意思，说一下</li>
+<li>http get跟head</li>
+<li>redis 的内存淘汰策略</li>
+<li>数据库如何建索引</li>
+<li>因为我之前做过一个高并发项目，所以一般爱问分布式锁的实现，还有 redis 的队列和专业的 mq 区别，有没有了解 redis 的 red lock 以及 redis 的 stream 能不能作为专业的 mq，为什么？大批量的删除 redis 中的 key，会有什么问题，怎么解决？redis 怎么实现延时队列，怎么实现异步队列。布隆过滤器了解过吗？</li>
+<li>如何在goroutine执行一半就退出协程</li>
+<li>字符串中的第一个唯一字符</li>
+<li>Go主协程如何等其余协程完再操作</li>
+<li>Go的对象在内存中是怎样分配的</li>
+<li>goroutine的泄露如何排查？pprof了解吗，说一下</li>
+<li>包括索引的类型，索引的数据结果，b + 树和 hash 的区别，b + 树和 b 树的区别，索引创建原则。最左原则，聚簇索引，前缀索引等等。</li>
+<li>MySQL 遇到过死锁问题吗，你是如何解决的？</li>
+<li>Mvcc和Redolog和Undolog以及Binlog有什么不同</li>
+<li>Goroutine和线程的区别</li>
+<li>行锁，表锁，悲观锁啊，乐观锁啊，排它锁，共享锁，间隙锁，范围锁，临键锁，两阶段锁，死锁的原因，事务中各个隔离级别用的锁的类型已经怎么用的锁。</li>
+<li>redis的大 key 多大算大？单个redis实例建议多大内存？</li>
+<li>Mysql联合索引最左匹配原则</li>
+<li>channel 关闭了接着 send 数据会发生什么，关闭一个已经关闭的 channel 会发生什么。</li>
+<li>go-micro 微服务架构怎么实现水平部署的，代码怎么实现</li>
+<li>CAP怎么选</li>
+<li>HTTPS和HTTP有什么区别</li>
+<li>Go中CAS是怎么回事</li>
+<li>微服务的优点是什么</li>
+<li>Go有哪些坑？for range为什么会有坑？</li>
+<li>怎么限制Goroutine的数量</li>
+<li>读写锁底层是怎么实现的</li>
+<li>Quic有什么优点相比Http2</li>
+<li>Go的GC说一下，扫描从哪里发起？</li>
+<li>电商系统图片多会造成带宽过高，如何解决</li>
+<li>分布式锁实现</li>
 </ul>
 
     </article>
@@ -189,8 +189,8 @@
 </html>
 ]]></content:encoded>
       <author>nobody</author>
-      <guid>1701032688</guid>
-      <pubDate>Sun, 26 Nov 2023 21:04:48 +0000</pubDate>
+      <guid>1701119150</guid>
+      <pubDate>Mon, 27 Nov 2023 21:05:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
